@@ -3,6 +3,6 @@ layout: default
 ---
 
 # Direcciones IP:
-> infooooo
+- infooooo
 
-[Back](./introduccionHacking.md).
+[Back](../introduccionHacking.md).
