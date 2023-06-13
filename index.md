@@ -7,6 +7,6 @@ layout: default
 
 ## Temas:
 
-[Link to another page](./introduccionHacking.md).
+[Introduccion al Hacking](./introduccionHacking.md).
 
 
