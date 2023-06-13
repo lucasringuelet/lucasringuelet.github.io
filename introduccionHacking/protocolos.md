@@ -21,8 +21,9 @@ layout: default
 > El protocolo tcp te asegura que la informacion va a llegar tal y como esta del origen al 
 > destino. Y utiliza el 'Tree-Way Handshake':
 >> ### Tree-Way Handshake
-	> A la hora de entablar una coneccion con tcp se suele ver ( SYN -> SYN ACK -> ACK)
-	> es como se entabla la coneccion ( en 3 pasos de ahi el nombre )
+	A la hora de entablar una coneccion con tcp se suele ver ( SYN -> SYN ACK -> ACK)
+	es como se entabla la coneccion ( en 3 pasos de ahi el nombre )
+	
 	![tree](https://www.techopedia.com/wp-content/uploads/2023/03/ad900dc1-ad94-4c7b-a3f8-154ad27c35f1.png)
 >
 > El protocolo ip es el encargado de determinar la ruta por donde iran esos paquetes.
@@ -42,6 +43,6 @@ layout: default
 > UDP es recomendable en programas que requieran mas velocidad que fiabilidad a la hora de 
 > enviar los paquetes.
 
- 
+
 
 [Back](../introduccionHacking.md)
