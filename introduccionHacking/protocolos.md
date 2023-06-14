@@ -44,7 +44,7 @@ layout: default
 > enviar los paquetes.
 
 ### Puertos tcp comunes
->`Puerto` 0: TCP en realidad no usa el puerto 0 para la comunicación de red, pero este puerto es bien conocido por los programadores de redes. Los programas de socket TCP usan el puerto 0 por convención para solicitar que el sistema operativo elija y asigne un puerto disponible. Esto evita que un programador tenga que elegir («codificar») un número de puerto que podría no funcionar bien para la situación.
+`Puerto` 0: TCP en realidad no usa el puerto 0 para la comunicación de red, pero este puerto es bien conocido por los programadores de redes. Los programas de socket TCP usan el puerto 0 por convención para solicitar que el sistema operativo elija y asigne un puerto disponible. Esto evita que un programador tenga que elegir («codificar») un número de puerto que podría no funcionar bien para la situación.
 
 `Puerto` 21: El puerto 21 por norma general se usa para las conexiones a servidores FTP en su canal de control, siempre que no hayamos cambiado el puerto de escucha de nuestro servidor FTP o FTPES.
 
@@ -127,7 +127,7 @@ layout: default
 
 
 ### Puertos udp comunes
->`Puerto` 23: Este puerto es usado en dispositivos Apple para su servicio de Facetime.
+`Puerto` 23: Este puerto es usado en dispositivos Apple para su servicio de Facetime.
 
 `Puerto` 53: Es utilizado para servicios DNS, este protocolo permite utilizar tanto TCP como UDP para la comunicación con los servidores DNS.
 
