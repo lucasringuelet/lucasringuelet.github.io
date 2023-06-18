@@ -11,6 +11,7 @@ layout: default
 	>Existe una similitud entre la utilidad de la IP privada y la dirección MAC, porque ambas sirven para identificar a un dispositivo dentro de la red. Sin embargo, la dirección MAC lo identifica dentro de cualquier red, porque se le asigna a la tarjeta de red del ordenador por el fabricante, mientras que la IP privada la asigna el router a cada dispositivo, varía dependiendo de la red, y se puede cambiar.
 
 	> tambien tener en cuenta que las direcciones MAC se componen por OUI y NIC 
-	00:00:f0(oui):e0:c5:45(nic). Con la herramienta macchanger si tenemos la direccion mac podemos saber el oui a que dispositivo corresponde y a que nos estariamos enfrentando y tambien la misma herramienta brinda posibilidad de que cambiemos nuestra direccios mac.
+	00:00:f0(oui)(identificador del fabricante):e0:c5:45(nic)(identificador para el controlador de interfaz de red del fabricante). Con la herramienta macchanger si tenemos la direccion mac podemos saber el oui a que dispositivo corresponde y a que nos estariamos enfrentando y tambien la misma herramienta brinda posibilidad de que cambiemos nuestra direccios mac.
+
 
 [Back](../introduccionHacking.md)

@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 # Modelo OSI
 
 El modelo `OSI` no es mas que un estandar conceptual para agrupar los ditintos protocolos en diferentes capas. Se utiliza para justamente estandarizar y que todos "hablemos el mismo idioma".
