@@ -14,6 +14,6 @@ layout: default
 ---------------------------------------------------------------------------------------------------------
 
 ### Reconocimiento
-- [nmap](./introduccionHacking/reconocimiento/nmap.md)
+- [Fase de Reconocimiento](./introduccionHacking/reconocimiento.md)
 
 [back](./)
