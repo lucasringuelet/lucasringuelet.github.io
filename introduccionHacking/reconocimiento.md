@@ -5,3 +5,4 @@ Vos como atacante si queres comprometer un sistema tenes que saber que `puertos`
 (65535 puertos en total).
 
 - [Nmap](./introduccionHacking/reconocimiento/nmap.md)
+- [Reconocimiento de Host (nmap,arp-scan,netdiscover,massscan)](./introduccionHacking/reconocimiento/host.md)
