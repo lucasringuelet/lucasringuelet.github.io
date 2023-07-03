@@ -33,8 +33,11 @@ netdiscover -i <interface de red>
 ```
 masscan -p<puertos> -Pn 192.168.0.0/16 --rate=10000
 ```
-	-Masscan es como nmap  pero mucho mas potente, nmap descubre miles de host por minutos mientras que masscan descubre millones de host por minuto, mientras nmap para cada puerto manda diferentes paquetes para descubrirlos de forma secuencial, masscan con un solo paquete puede descubrir que puertos estan abiertos para un unico host.
+	- Masscan es como nmap  pero mucho mas potente, nmap descubre miles de host por minutos mientras que masscan descubre millones de host por minuto, mientras nmap para cada puerto manda diferentes paquetes para descubrirlos de forma secuencial, masscan con un solo paquete puede descubrir que puertos estan abiertos para un unico host.
 
 
 
 - Savitar muestra como hacer un script en bash para reconocer host, mediante traza ICMP que es lo que se explico antes de mandar ping a los host y ver quien responde. Puede pasar que los host no acepten pings entonces, lo que se hace es "atacar" los puertos mas comunes mediante tcp, todo esto en el script lo muestra.
+
+
+[Back](../introduccionHacking.md)
