@@ -27,4 +27,4 @@ Sublist3r (Herramienta pasiva): (https://github.com/aboul3la/Sublist3r)
 - Savitar usa el diccionario SecList (https://github.com/danielmiessler/SecLists) para las herramientas activas. * el lo guarda en `/usr/share` tener en cuenta que ya hay una carpeta llamada wordList *
 
 
-[Back](../)
+[Back](https://lucasringuelet.github.io/introduccionHacking/reconocimiento.html)
