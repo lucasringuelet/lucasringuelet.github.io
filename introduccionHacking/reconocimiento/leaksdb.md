@@ -13,4 +13,4 @@ A continuación, se proporciona el enlace a la utilidad online de ejemplo que se
 
 - DeHashed: (https://www.dehashed.com/)
 
-[Back](../introduccionHacking.md/reconocimiento.md)
+[Back](./introduccionHacking.md/reconocimiento.md)
