@@ -18,4 +18,4 @@ A continuación, os proporcionamos los enlaces correspondientes a las herramient
 - Builtwith: https://builtwith.com/
 
 
-[Back](./introduccionHacking.md/reconocimiento.md)
+[Back](https://lucasringuelet.github.io/introduccionHacking/reconocimiento.html)

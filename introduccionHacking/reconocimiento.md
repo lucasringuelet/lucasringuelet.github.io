@@ -9,5 +9,7 @@ Vos como atacante si queres comprometer un sistema tenes que saber que `puertos`
 - [Subdominios](./reconocimiento/subdominios.md)
 - [Leaks de bases de datos (DeHashed)](./reconocimiento/leaksdb.md)
 - [Identificación de las tecnologías en una página web](./reconocimiento/tecnologiasWeb.md)
+- [Fuzzing](./reconocimiento/fuzzing.md)
+- [BurpSuite](./reconocimiento/burpsuite.md)
 
 [Back](../introduccionHacking.md)
